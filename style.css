@@ -1,0 +1,25 @@
+body{
+  background-image: url(1.jpg);
+  background-color: grey;
+}
+.header{
+  text-align: center;
+  background-color: gray;
+  margin: 10 10 10 10;
+  font-family: sans-serif;
+}
+.addtask{
+  align-items: center;
+  text-align: center;
+}
+.remove-complete-btn{  
+  color: aqua;
+}
+.task-list-header{
+  color: red;
+  text-align: center;
+}
+.task{
+  color: white;
+  text-align: center;
+}
